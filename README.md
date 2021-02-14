@@ -1,1 +1,1 @@
-Apache Cassandra using python
+Apache Cassandra using Python
